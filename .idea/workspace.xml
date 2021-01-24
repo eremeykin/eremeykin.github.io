@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f41532b-3638-42ce-8670-5fbc3e939b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-01-23-uml-associations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2020/01/uml-associations/uml-arrows.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/variables.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/variables.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-01-header-image.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-01-welcome.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-uml-associations.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-uml-associations.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_config.dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_config.dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/variables.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_data/variables.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_data/variables.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test/_data/variables.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,10 +70,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="679" y="291" width="618" height="522" key="find.popup" timestamp="1611419571526">
+    <state x="679" y="291" width="618" height="522" key="find.popup" timestamp="1611472468616">
       <screen x="57" y="27" width="1863" height="1053" />
     </state>
-    <state x="679" y="291" width="618" height="522" key="find.popup/57.27.1863.1053@57.27.1863.1053" timestamp="1611419571526" />
+    <state x="679" y="291" width="618" height="522" key="find.popup/57.27.1863.1053@57.27.1863.1053" timestamp="1611472468616" />
     <state x="651" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1611419453320">
       <screen x="57" y="27" width="1863" height="1053" />
     </state>

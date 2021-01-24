@@ -1,9 +1,10 @@
 ---
 title: Основы UML
-tags: UML
+tags: UML диаграмма модификатор стериотип
 ---
 
-Рассмотрены основные связи в UML.
+Основные связи на диаграммах классов UML, модификаторы доступа и
+стериотипы.
 
 <!--more-->
 
@@ -72,7 +73,7 @@ tags: UML
       background-position: -80px -625px;
     }
 </style>
-
+## Виды связей
 <div class="grid grid--py-3">
   <div class="cell cell--lg-1 cell--md-2 vertical center-flex">Класс, который <br> вызывает метод</div>
   <div class="cell cell--lg-3 cell--md-8 center-flex"><div class="icon1"></div> </div>
@@ -96,7 +97,7 @@ tags: UML
   <div class="cell cell--lg-1 cell--md-2 vertical center-flex">Класс-клиент</div>
   <div class="cell cell--lg-3 cell--md-8 center-flex"><div class="icon4"></div></div>
   <div class="cell cell--lg-1 cell--md-2 vertical center-flex">Независимый класс</div>
-  <div class="cell cell--lg-7 cell--md-12"><b>Зависимость.</b> обозначает такое отношение между классами, что изменение спецификации
+  <div class="cell cell--lg-7 cell--md-12"><b>Зависимость</b> обозначает такое отношение между классами, что изменение спецификации
   класса-поставщика может повлиять на работу зависимого класса, но не наоборот.</div>
 
   <div class="cell cell--lg-1 cell--md-2 vertical center-flex">Часть</div>
@@ -110,8 +111,43 @@ tags: UML
   <div class="cell cell--lg-1 cell--md-2 vertical center-flex">Целое</div>
   <div class="cell cell--lg-7 cell--md-12"><b>Композиция.</b> Частный случай агрегации. Делает акцент на процесс конструирования и уничтожения
   частей агрегата. Создание/уничтожение частей происходи в результате создания/уничтожения агрегата.</div>
+</div>
+
+## Модификаторы доступа
+<div class="grid grid--px-2">
+<div class="cell cell--3">UML обозначение</div>
+<div class="cell cell--4">Модификатор доступа Java</div>
+<div class="cell cell--5"></div>
+
+<div class="cell cell--3"><code class="language-plaintext highlighter-rouge">+</code></div>
+<div class="cell cell--4"><code class="language-java highlighter-rouge">public</code></div>
+<div class="cell cell--5"></div>
+
+<div class="cell cell--3"><code class="language-plaintext highlighter-rouge">#</code></div>
+<div class="cell cell--4"><code class="language-java highlighter-rouge">protected</code></div>
+<div class="cell cell--5"></div>
+
+<div class="cell cell--3"><code class="language-plaintext highlighter-rouge">~</code></div>
+<div class="cell cell--4"><code class="language-java highlighter-rouge">package-private</code></div>
+<div class="cell cell--5"></div>
+
+<div class="cell cell--3"><code class="language-plaintext highlighter-rouge">-</code></div>
+<div class="cell cell--4"><code class="language-java highlighter-rouge">private</code></div>
+<div class="cell cell--5"></div>
 
 </div>
+
+## Стериотипы
+`<<constructor>>` стериотип перед конструктором
+
+`<<misc>>` стериотип перед остальными методами
+
+`<<interface>>` стериотип для интерфейса (перед названием в шапке)
+
+`abstract` обозначается курсивом в названии, а не стериотипом (классы, метды)
+
+`static` обозначается подчеркиванием названия (методы, поля)
+
 ---
 
 
