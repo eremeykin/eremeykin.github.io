@@ -114,27 +114,19 @@ tags: UML диаграмма модификатор стериотип
 </div>
 
 ## Модификаторы доступа
-<div class="grid grid--px-2">
-<div class="cell cell--3">UML обозначение</div>
-<div class="cell cell--4">Модификатор доступа Java</div>
-<div class="cell cell--5"></div>
-
-<div class="cell cell--3"><code class="language-plaintext highlighter-rouge">+</code></div>
-<div class="cell cell--4"><code class="language-java highlighter-rouge">public</code></div>
-<div class="cell cell--5"></div>
-
-<div class="cell cell--3"><code class="language-plaintext highlighter-rouge">#</code></div>
-<div class="cell cell--4"><code class="language-java highlighter-rouge">protected</code></div>
-<div class="cell cell--5"></div>
-
-<div class="cell cell--3"><code class="language-plaintext highlighter-rouge">~</code></div>
-<div class="cell cell--4"><code class="language-java highlighter-rouge">package-private</code></div>
-<div class="cell cell--5"></div>
-
-<div class="cell cell--3"><code class="language-plaintext highlighter-rouge">-</code></div>
-<div class="cell cell--4"><code class="language-java highlighter-rouge">private</code></div>
-<div class="cell cell--5"></div>
-
+<div class="grid-container">
+    <div class="grid">
+        <div class="cell cell--3">UML обозначение</div>
+        <div class="cell cell--9">Модификатор доступа Java</div>
+        <div class="cell cell--3"><code class="language-plaintext highlighter-rouge">+</code></div>
+        <div class="cell cell--9"><code class="language-java highlighter-rouge">public</code></div>
+        <div class="cell cell--3"><code class="language-plaintext highlighter-rouge">#</code></div>
+        <div class="cell cell--9"><code class="language-java highlighter-rouge">protected</code></div>
+        <div class="cell cell--3"><code class="language-plaintext highlighter-rouge">~</code></div>
+        <div class="cell cell--9"><code class="language-java highlighter-rouge">package-private</code></div>
+        <div class="cell cell--3"><code class="language-plaintext highlighter-rouge">-</code></div>
+        <div class="cell cell--9"><code class="language-java highlighter-rouge">private</code></div>
+    </div>
 </div>
 
 ## Стериотипы
