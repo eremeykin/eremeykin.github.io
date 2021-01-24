@@ -86,4 +86,4 @@ layout: page
   </div>
 {%- endif -%}
 
-{{ content }}
+{{ post.content | remove: post.excerpt }}
