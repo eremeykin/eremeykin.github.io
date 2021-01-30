@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f41532b-3638-42ce-8670-5fbc3e939b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-01-26-template-method.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2020/01/template-method/template-method-class-diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-01-30-singleton.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2020/01/singleton/singleton-class-diagram.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-adapter.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-24-adapter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-26-template-method.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-26-template-method.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_config.dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_config.dev.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,33 +33,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/2020/01/template-method" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/2020/01/singleton" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/2020/01/template-method" />
+      <recent name="$PROJECT_DIR$/assets/images/2020/01/singleton" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/images/2020/01/template-method" />
       <recent name="$PROJECT_DIR$/assets/images/2020/01/uml-associations" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/2020/01/singleton" />
       <recent name="$PROJECT_DIR$/assets/images/2020/01/template-method" />
       <recent name="$PROJECT_DIR$/assets/images/2020/01/adapter" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -69,19 +57,20 @@
       <option name="presentableId" value="Default" />
       <updated>1611418259483</updated>
       <workItem from="1611418260569" duration="8940000" />
-      <workItem from="1611646476997" duration="9799000" />
+      <workItem from="1611646476997" duration="16013000" />
+      <workItem from="1611990936962" duration="11512000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="679" y="291" width="841" height="627" key="find.popup" timestamp="1611689011724">
+    <state x="679" y="291" width="841" height="627" key="find.popup" timestamp="1611859636078">
       <screen x="57" y="27" width="1863" height="1053" />
     </state>
-    <state x="679" y="291" width="841" height="627" key="find.popup/57.27.1863.1053@57.27.1863.1053" timestamp="1611689011724" />
-    <state x="651" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1611685814456">
+    <state x="679" y="291" width="841" height="627" key="find.popup/57.27.1863.1053@57.27.1863.1053" timestamp="1611859636078" />
+    <state x="651" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1611996981023">
       <screen x="57" y="27" width="1863" height="1053" />
     </state>
-    <state x="651" y="257" width="672" height="678" key="search.everywhere.popup/57.27.1863.1053@57.27.1863.1053" timestamp="1611685814456" />
+    <state x="651" y="257" width="672" height="678" key="search.everywhere.popup/57.27.1863.1053@57.27.1863.1053" timestamp="1611996981023" />
     <state x="713" y="466" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1611686533570">
       <screen x="57" y="27" width="1863" height="1053" />
     </state>
