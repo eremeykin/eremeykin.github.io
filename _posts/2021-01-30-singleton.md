@@ -120,7 +120,7 @@ singleton класса. Ссылка на этот объект хранится
 
 
 <p align="center">
-  <img src="/assets/images/2020/01/singleton/singleton-class-diagram.png" />
+  <img src="/assets/images/2021/01/singleton/singleton-class-diagram.png" />
 </p>
 
 <div class="grid grid--px-0">

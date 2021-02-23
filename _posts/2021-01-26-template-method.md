@@ -65,7 +65,7 @@ Template Method предоставляет метод, который позво
 метод должен вызывать лишь несколько абстрактных.
 
 <p align="center">
-  <img src="/assets/images/2020/01/template-method/template-method-class-diagram.png" />
+  <img src="/assets/images/2021/01/template-method/template-method-class-diagram.png" />
 </p>
 
 <div class="grid grid--px-0">
