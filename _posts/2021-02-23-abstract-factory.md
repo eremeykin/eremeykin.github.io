@@ -11,10 +11,11 @@ tags:
 show_excerpt: true
 ---
 
-Abstract Factory обеспечивает создание семейств взаимосвязанных или зависящих
-друг от друга объектов без указания конкретных классов. Этим объектам
-соответствует набор связанных интерфейсов, которые реализуют создаваемые
-объекты.
+Abstract Factory обеспечивает возможность создания различных типов семейств
+взаимосвязанных или зависящих друг от друга объектов без указания конкретных
+классов. Этим объектам соответствует набор связанных интерфейсов, которые
+реализуют создаваемые объекты.
+
 <!--more-->
 
 <style>
@@ -94,8 +95,41 @@ Abstract Factory обеспечивает создание семейств вз
   <div class="cell cell--auto"><i>PgStatement, PgPreparedStatement, PgCallableStatement</i></div>
   <div class="cell cell--lg-12 wrap">Связанные между собой конкретные продукты определенного вида</div>
 
-
 </div>
+
+**Проблема:**
+Каким образом клиент получает конкретную реализацию абстрактной фабрики, не зная
+при этом её реального типа?
+
+* Через DI фреймворк, например, Spring создает bean конкретной фабрики в
+зависимости от конфигурации
+* Кто-то, кто обладает информацией о том, какая должна быть конкретная фабрика
+(например, по текущей конфигурации или в зависимости от контекста),
+устанавливает её клиенту через setter/конструктор
+* Через шаблон Factory Method, который по типу аргументов принимает решение о
+создании той или иной реализации фабрики. Например, в [java-design-patterns](https://java-design-patterns.com/patterns/abstract-factory)
+это сделано следующим образом:
+
+```java
+public static class FactoryMaker {
+
+  public enum KingdomType {
+    ELF, ORC
+  }
+
+  public static KingdomFactory makeFactory(KingdomType type) {
+    switch (type) {
+      case ELF:
+        return new ElfKingdomFactory();
+      case ORC:
+        return new OrcKingdomFactory();
+      default:
+        throw new IllegalArgumentException("KingdomType not supported.");
+    }
+  }
+}
+
+```
 
 
 ## Примеры
@@ -105,7 +139,19 @@ Abstract Factory обеспечивает создание семейств вз
   <img src="/assets/images/2021/01/02/abstract-factory/abstract-factory-example.png" />
 </p>
 
+## Чем отличается
+**[Factory method - Mark Grand](/2021/02/28/factory-method-mark-grand.html)** производит один продукт в то время как Abstract Factory
+производит семейство объектов, которые связаны между собой. Структурно Abstract Factory является обобщением Factory method,
+ если рассматривать интерпретацию Mark Grand и подход "Determination by configuration" когда у производящего метода нет параметров.
+В подходе "Data-driven class determination" Factory Method немного отличается от Abstract Factory тем, что реализация интерфейса
+фабрики всего одна и в этой реализации инкапсулирована логика определения типа продуктов.
+
+
 ## Ссылки
-[https://java-design-patterns.com/patterns/abstract-factory/](https://java-design-patterns.com/patterns/abstract-factory/)
+[https://java-design-patterns.com/patterns/abstract-factory/](https://java-design-patterns.com/patterns/abstract-factory)
 
 [https://github.com/iluwatar/java-design-patterns/tree/master/abstract-factory](https://github.com/iluwatar/java-design-patterns/tree/master/abstract-factory)
+
+[https://refactoring.guru/design-patterns/abstract-factory](https://refactoring.guru/design-patterns/abstract-factory)
+
+[What are the differences between abstract factory and factory design patterns](https://stackoverflow.com/questions/5739611/what-are-the-differences-between-abstract-factory-and-factory-design-patterns)

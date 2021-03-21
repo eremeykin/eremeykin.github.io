@@ -61,7 +61,7 @@ Template Method предоставляет метод, который позво
 возможности подкласса ограничены описанием работы отдельных частей.
 
 *Примечание:* не следует в шаблонном методе вызывать слишком много абстрактных
-методов, в этом случае суперкласс становится не удобно использовать. Шаблонный
+методов, в этом случае суперкласс становится неудобно использовать. Шаблонный
 метод должен вызывать лишь несколько абстрактных.
 
 <p align="center">
@@ -96,6 +96,16 @@ Template Method предоставляет метод, который позво
 `public int read(byte b[], int off, int len)`. Абстрактный метод реализован в
 `FileInputStream`.
 
+
+## Чем отличается
+**[Factory Method (GoF)](/2021/02/28/factory-method-gof.html)** является частным случаем Template Method,
+по сути Factory Method это Template Method, который возвращает объект, реализующий интерфейс
+ и он применяется с целью создания этого объекта
+И Factory Method и Template Method оба имеют очень похожую структуру, но главное
+отличие в разной цели. Цель Factory Method - порождающая, а цель Template
+Method - поведенческая.
+
+
 ## Варианты
 1. В суперклассе можно использовать не абстрактные, а конкретные методы с
 поведением по-умолчанию. Такие конкретные методы называются hook-методами.
@@ -112,3 +122,7 @@ something-`Hook`. По умолчанию используется опреде�
 [https://github.com/iluwatar/java-design-patterns/tree/master/template-method](https://github.com/iluwatar/java-design-patterns/tree/master/template-method)
 
 [StackOverflow: Template design pattern in JDK, could not find a method defining set of methods to be executed in order](https://stackoverflow.com/questions/35559360/template-design-pattern-in-jdk-could-not-find-a-method-defining-set-of-methods)
+
+[StackOverflow: Is Factory method pattern a specialized case of Template method pattern](https://stackoverflow.com/questions/55461586/is-factory-method-pattern-a-specialized-case-of-template-method-pattern)
+
+[https://refactoring.guru/design-patterns/template-method](https://refactoring.guru/design-patterns/template-method)

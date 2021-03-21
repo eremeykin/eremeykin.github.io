@@ -263,3 +263,5 @@ public enum Singleton {
 [Хабр: Правильный Singleton в Java](https://habr.com/ru/post/129494/)
 
 [Wikipedia: Initialization-on-demand holder idiom](https://en.wikipedia.org/wiki/Initialization-on-demand_holder_idiom)
+
+[https://refactoring.guru/design-patterns/singleton](https://refactoring.guru/design-patterns/singleton)
