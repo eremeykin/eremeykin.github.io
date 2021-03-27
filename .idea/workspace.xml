@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f41532b-3638-42ce-8670-5fbc3e939b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-02-28-factory-method-mark-grand.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-01-factory-method-gof.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof/factory-method-gof-example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof/factory-method-gof-uml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method/factory-method-by-configuration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method/factory-method-discriminator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method/factory-method-example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method/factory-method-uml.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-24-adapter.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-24-adapter.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-26-template-method.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-26-template-method.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-30-singleton.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-30-singleton.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-02-23-abstract-factory.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-23-abstract-factory.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-03-21-bridge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2021/03/bridge.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +31,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/2021/03" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/2021/03" />
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof" />
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method" />
-      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02/abstract-factory" />
-      <recent name="$PROJECT_DIR$/assets/images/2020/01/singleton" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof" />
@@ -80,7 +70,8 @@
       <workItem from="1615102173290" duration="8000" />
       <workItem from="1615799351320" duration="15241000" />
       <workItem from="1616093388024" duration="2457000" />
-      <workItem from="1616327739101" duration="969000" />
+      <workItem from="1616327739101" duration="2980000" />
+      <workItem from="1616864106537" duration="6564000" />
     </task>
     <servers />
   </component>
