@@ -2,12 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f41532b-3638-42ce-8670-5fbc3e939b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/2021/03/bridge-adapter-example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2021/03/bridge-example-uml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2021/03/bridge-example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2021/03/bridge-multiple-abstractions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-04-11-facade.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/facade/facade-class-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-23-uml-associations.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-23-uml-associations.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2021-01-24-adapter.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-24-adapter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-26-template-method.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-26-template-method.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-30-singleton.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-30-singleton.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-23-abstract-factory.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-23-abstract-factory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-28-factory-method-mark-grand.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-28-factory-method-mark-grand.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-01-factory-method-gof.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-01-factory-method-gof.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2021-03-21-bridge.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-21-bridge.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/02/abstract-factory/abstract-factory-example.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/abstract-factory/abstract-factory-example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/02/abstract-factory/abstract-factory.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/abstract-factory/abstract-factory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof/factory-method-gof-example.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/factory-method-gof/factory-method-gof-example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof/factory-method-gof-uml.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/factory-method-gof/factory-method-gof-uml.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method/factory-method-by-configuration.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/factory-method/factory-method-by-configuration.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method/factory-method-discriminator.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/factory-method/factory-method-discriminator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method/factory-method-example.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/factory-method/factory-method-example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/02/factory-method/factory-method-uml.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/factory-method/factory-method-uml.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/adapter/adapter-class-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/adapter/adapter-class-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/adapter/adapter-sample.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/adapter/adapter-sample.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/singleton/singleton-class-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/singleton/singleton-class-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/template-method/template-method-class-diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/template-method/template-method-class-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/01/uml-associations/uml-arrows.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/uml-associations/uml-arrows.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/03/bridge-adapter-example.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/bridge/bridge-adapter-example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/03/bridge-example-uml.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/bridge/bridge-example-uml.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/03/bridge-example.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/bridge/bridge-example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/03/bridge-multiple-abstractions.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/bridge/bridge-multiple-abstractions.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2021/03/bridge.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/bridge/bridge.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +40,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1nTdxLbZcE8Ur6X5rI5PpK0KDNM" />
   <component name="ProjectViewState">
@@ -34,23 +58,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/2021/03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/facade" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/2021/03" />
+      <recent name="$PROJECT_DIR$/assets/images/facade" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/images/2021/03" />
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof" />
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method" />
-      <recent name="$PROJECT_DIR$/assets/images/2021/01/02/abstract-factory" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets/images/2021/03/bridge" />
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof" />
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method" />
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02" />
-      <recent name="$PROJECT_DIR$/assets/images/2021" />
-      <recent name="$PROJECT_DIR$/assets/images/2020/01/singleton" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +98,14 @@
       <workItem from="1615799351320" duration="15241000" />
       <workItem from="1616093388024" duration="2457000" />
       <workItem from="1616327739101" duration="2980000" />
-      <workItem from="1616864106537" duration="15762000" />
+      <workItem from="1616864106537" duration="16464000" />
+      <workItem from="1617007548004" duration="1813000" />
+      <workItem from="1617862752946" duration="596000" />
+      <workItem from="1618123827021" duration="5064000" />
+      <workItem from="1619246332927" duration="619000" />
+      <workItem from="1619247798310" duration="5505000" />
+      <workItem from="1619256152549" duration="3527000" />
+      <workItem from="1619427700509" duration="34000" />
     </task>
     <servers />
   </component>

@@ -44,15 +44,15 @@ key: page-about
 - [x] [Template method](/2021/01/26/template-method.html)
 ### Stage 3
 - [ ] Chain of responsibility
-- [ ] Facade
+- [x] [Facade](/2021/04/11/facade.html)
 - [ ] Prototype
-- [ ] Bridge
+- [x] [Bridge](/2021/03/21/bridge.html)
 - [ ] Iterator
 ### Extra
 - [ ] Наследование vs делегирование vs композиция
+- [ ] Законы, правила, принципы: закон Деметры, принцип подстановки Liskov, SOLID
 - [x] [Основы UML](/2021/01/23/uml-associations.html)
 - [ ] Как избежать switch case и if цепочек
 - [ ] Вложенные, внутренние классы
 - [ ] Модификаторы доступа
 - [ ] Шаблоны в JDBC
-

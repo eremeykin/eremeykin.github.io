@@ -71,7 +71,7 @@ Abstract Factory обеспечивает создание семейств вз
 ## Реализация
 
 <p align="center">
-  <img src="/assets/images/2021/01/02/abstract-factory/abstract-factory.png" />
+  <img src="/assets/images/abstract-factory/abstract-factory.png" />
 </p>
 
 <div class="grid grid--px-0">
@@ -136,7 +136,7 @@ public static class FactoryMaker {
 - `java.sql.Connection` - пример абстрактной фабрики, которую можно получить `Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/database");`
 
 <p align="center">
-  <img src="/assets/images/2021/01/02/abstract-factory/abstract-factory-example.png" />
+  <img src="/assets/images/abstract-factory/abstract-factory-example.png" />
 </p>
 
 ## Чем отличается

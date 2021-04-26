@@ -29,7 +29,7 @@ tags: UML диаграмма модификатор стериотип
       width: 200px;
       height: 100px;
       float: left;
-      background: url(/assets/images/2021/01/uml-associations/uml-arrows.png) no-repeat;
+      background: url(/assets/images/uml-associations/uml-arrows.png) no-repeat;
       background-position: -80px -25px;
     }
 
@@ -37,7 +37,7 @@ tags: UML диаграмма модификатор стериотип
       width: 200px;
       height: 100px;
       float: left;
-      background: url(/assets/images/2021/01/uml-associations/uml-arrows.png) no-repeat;
+      background: url(/assets/images/uml-associations/uml-arrows.png) no-repeat;
       background-position: -80px -175px;
     }
 
@@ -45,7 +45,7 @@ tags: UML диаграмма модификатор стериотип
       width: 200px;
       height: 100px;
       float: left;
-      background: url(/assets/images/2021/01/uml-associations/uml-arrows.png) no-repeat;
+      background: url(/assets/images/uml-associations/uml-arrows.png) no-repeat;
       background-position: -80px -325px;
     }
 
@@ -53,7 +53,7 @@ tags: UML диаграмма модификатор стериотип
       width: 200px;
       height: 100px;
       float: left;
-      background: url(/assets/images/2021/01/uml-associations/uml-arrows.png) no-repeat;
+      background: url(/assets/images/uml-associations/uml-arrows.png) no-repeat;
       background-position: -80px -475px;
     }
 
@@ -61,7 +61,7 @@ tags: UML диаграмма модификатор стериотип
       width: 200px;
       height: 100px;
       float: left;
-      background: url(/assets/images/2021/01/uml-associations/uml-arrows.png) no-repeat;
+      background: url(/assets/images/uml-associations/uml-arrows.png) no-repeat;
       background-position: -80px -775px;
     }
 
@@ -69,7 +69,7 @@ tags: UML диаграмма модификатор стериотип
       width: 200px;
       height: 100px;
       float: left;
-      background: url(/assets/images/2021/01/uml-associations/uml-arrows.png) no-repeat;
+      background: url(/assets/images/uml-associations/uml-arrows.png) no-repeat;
       background-position: -80px -625px;
     }
 </style>

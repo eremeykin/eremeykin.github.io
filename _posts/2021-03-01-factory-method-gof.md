@@ -45,7 +45,7 @@ Factory Method в интерпретации GoF предоставляет ме
 
 ## Реализация
 <p align="center">
-  <img src="/assets/images/2021/01/02/factory-method-gof/factory-method-gof-uml.png" />
+  <img src="/assets/images/factory-method-gof/factory-method-gof-uml.png" />
 </p>
 
 <div class="grid grid--px-0">
@@ -75,7 +75,7 @@ Factory Method в интерпретации GoF предоставляет ме
 ## Примеры
 
 <p align="center">
-  <img src="/assets/images/2021/01/02/factory-method-gof/factory-method-gof-example.png" />
+  <img src="/assets/images/factory-method-gof/factory-method-gof-example.png" />
 </p>
 
 ## Чем отличается

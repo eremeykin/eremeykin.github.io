@@ -58,7 +58,7 @@ Image createImage(String ext) {
 ```
 
 <p align="center">
-  <img src="/assets/images/2021/01/02/factory-method/factory-method-discriminator.png" />
+  <img src="/assets/images/factory-method/factory-method-discriminator.png" />
 </p>
 
 - Determination by configuration - фабричный метод не имеет параметра,
@@ -69,13 +69,13 @@ Image createImage(String ext) {
 
 
 <p align="center">
-  <img src="/assets/images/2021/01/02/factory-method/factory-method-by-configuration.png" />
+  <img src="/assets/images/factory-method/factory-method-by-configuration.png" />
 </p>
 
 ## Реализация
 
 <p align="center">
-  <img src="/assets/images/2021/01/02/factory-method/factory-method-uml.png" />
+  <img src="/assets/images/factory-method/factory-method-uml.png" />
 </p>
 
 <div class="grid grid--px-0">
@@ -109,7 +109,7 @@ Image createImage(String ext) {
 "Продажа товара" (`SaleLineItem`).
 
 <p align="center">
-  <img src="/assets/images/2021/01/02/factory-method/factory-method-example.png" />
+  <img src="/assets/images/factory-method/factory-method-example.png" />
 </p>
 Фабрика `RecordFactoryFactory` создает определенную реализацию
 `JournalRecordFactory` в зависимости от текущей конфигурации, то есть выбранного
