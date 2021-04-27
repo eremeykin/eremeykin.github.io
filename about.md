@@ -31,7 +31,7 @@ key: page-about
 - [x] [Singleton](/2021/01/30/singleton.html)
 - [ ] Builder
 - [ ] Decorator
-- [ ] Proxy
+- [x] [Proxy](/2021/04/26/proxy.html)
 - [x] [Adapter](/2021/01/24/adapter.html)
 - [ ] Strategy
 - [x] [Abstract Factory](/2021/02/23/abstract-factory.html)
