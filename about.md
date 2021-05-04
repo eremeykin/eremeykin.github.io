@@ -47,10 +47,10 @@ key: page-about
 - [x] [Facade](/2021/04/11/facade.html)
 - [ ] Prototype
 - [x] [Bridge](/2021/03/21/bridge.html)
-- [ ] Iterator
+- [x] [Iterator](/2021/04/28/iterator.html)
 ### Extra
 - [ ] Наследование vs делегирование vs композиция
-- [ ] Законы, правила, принципы: закон Деметры, принцип подстановки Liskov, SOLID
+- [ ] Законы, правила, принципы: закон Деметры, принцип подстановки Liskov, CQS, SOLID
 - [x] [Основы UML](/2021/01/23/uml-associations.html)
 - [ ] Как избежать switch case и if цепочек
 - [ ] Вложенные, внутренние классы

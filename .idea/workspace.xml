@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f41532b-3638-42ce-8670-5fbc3e939b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-04-26-proxy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/proxy/proxy-object-diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/proxy/proxy-uml-class-diagram-example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/proxy/proxy-uml-class-diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-04-28-iterator.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/iterator/iterator-uml-class-diagram-example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/iterator/iterator-uml-class-diagram.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2021-01-24-adapter.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-24-adapter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-01-factory-method-gof.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-01-factory-method-gof.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-04-26-proxy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-04-26-proxy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,23 +36,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/proxy" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/iterator" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/proxy" />
+      <recent name="$PROJECT_DIR$/assets/images/iterator" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/images/proxy" />
       <recent name="$PROJECT_DIR$/assets/images/facade" />
       <recent name="$PROJECT_DIR$/assets/images/2021/03" />
-      <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/iterator" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/2021/03/bridge" />
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof" />
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method" />
-      <recent name="$PROJECT_DIR$/assets/images/2021/01/02" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +86,10 @@
       <workItem from="1619427700509" duration="34000" />
       <workItem from="1619449986240" duration="4880000" />
       <workItem from="1619507544370" duration="2013000" />
-      <workItem from="1619547582586" duration="3073000" />
+      <workItem from="1619547582586" duration="3831000" />
+      <workItem from="1619632940656" duration="1452000" />
+      <workItem from="1619805744186" duration="10412000" />
+      <workItem from="1620112646567" duration="306000" />
     </task>
     <servers />
   </component>
