@@ -1,7 +1,7 @@
 ---
 title: Factory Method (GoF)
 tags:
-- 'тип: поведенческий'
+- 'тип: производящий'
 - 'уровень: объект'
 - GoF
 - template method

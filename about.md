@@ -36,6 +36,7 @@ key: page-about
 - [ ] Strategy
 - [x] [Abstract Factory](/2021/02/23/abstract-factory.html)
 - [x] [Factory method - Mark Grand](/2021/02/28/factory-method-mark-grand.html), [Factory method - GoF](/2021/03/01/factory-method-gof.html)
+- [ ] State
 ### Stage 2
 - [ ] Command
 - [ ] Mediator
@@ -43,7 +44,7 @@ key: page-about
 - [ ] Visitor
 - [x] [Template method](/2021/01/26/template-method.html)
 ### Stage 3
-- [ ] Chain of responsibility
+- [x] [Chain of responsibility](/2021/05/24/chain-of-responsibility.html)
 - [x] [Facade](/2021/04/11/facade.html)
 - [ ] Prototype
 - [x] [Bridge](/2021/03/21/bridge.html)
