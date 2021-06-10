@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f41532b-3638-42ce-8670-5fbc3e939b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-05-24-chain-of-responsibility.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/chain-of-responsibility/chain-fo-responsibility-servlet-filter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/chain-of-responsibility/chain-of-responsibility-as-tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/chain-of-responsibility/chain-of-responsibility-class-diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/chain-of-responsibility/chain-of-responsibility-example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/chain-of-responsibility/chain-of-responsibility-scheme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/decorator/decorator-recursion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-01-factory-method-gof.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-01-factory-method-gof.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-06-06-command.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/command/command-class-diagram-example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/command/command-class-diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/command/command-illustration.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2021-05-05-decorator.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-05-05-decorator.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
@@ -29,6 +25,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="1nTdxLbZcE8Ur6X5rI5PpK0KDNM" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
@@ -39,39 +38,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/chain-of-responsibility" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/command" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/command" />
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/images/chain-of-responsibility" />
       <recent name="$PROJECT_DIR$/assets/images/decorator" />
-      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/images/iterator" />
-      <recent name="$PROJECT_DIR$/assets/images/proxy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/chain-of-responsibility" />
       <recent name="$PROJECT_DIR$/assets/images/iterator" />
-      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/2021/03/bridge" />
       <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -112,8 +97,14 @@
       <workItem from="1621178763467" duration="8369000" />
       <workItem from="1621237020972" duration="50000" />
       <workItem from="1621880171255" duration="10183000" />
-      <workItem from="1622915459556" duration="5009000" />
+      <workItem from="1622915459556" duration="11897000" />
+      <workItem from="1623089083709" duration="3061000" />
+      <workItem from="1623181305192" duration="3072000" />
+      <workItem from="1623350268025" duration="323000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

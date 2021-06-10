@@ -38,7 +38,9 @@ key: page-about
 - [x] [Factory method - Mark Grand](/2021/02/28/factory-method-mark-grand.html), [Factory method - GoF](/2021/03/01/factory-method-gof.html)
 - [ ] State
 ### Stage 2
-- [ ] Command
+- [x] [Command](/2021/06/06/command.htmlMediator
+Observer
+Visito)
 - [ ] Mediator
 - [ ] Observer
 - [ ] Visitor
