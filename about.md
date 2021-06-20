@@ -38,10 +38,8 @@ key: page-about
 - [x] [Factory method - Mark Grand](/2021/02/28/factory-method-mark-grand.html), [Factory method - GoF](/2021/03/01/factory-method-gof.html)
 - [ ] State
 ### Stage 2
-- [x] [Command](/2021/06/06/command.htmlMediator
-Observer
-Visito)
-- [ ] Mediator
+- [x] [Command](/2021/06/06/command.html)
+- [x] [Mediator](/2021/06/20/mediator.html)
 - [ ] Observer
 - [ ] Visitor
 - [x] [Template method](/2021/01/26/template-method.html)
@@ -53,7 +51,7 @@ Visito)
 - [x] [Iterator](/2021/04/28/iterator.html)
 ### Extra
 - [ ] Наследование vs делегирование vs композиция. Недостатки наследования (из Effective Java)
-- [ ] Законы, правила, принципы: закон Деметры, принцип подстановки Liskov, CQS, SOLID
+- [ ] Законы, правила, принципы: закон Деметры, CQS, SOLID, Loose Coupling High Cohesion, Open/Closed Principle, Single Responsibility Principle, Liskov Substitution Principle
 - [x] [Основы UML](/2021/01/23/uml-associations.html)
 - [ ] Как избежать switch case и if цепочек
 - [ ] Вложенные, внутренние классы
