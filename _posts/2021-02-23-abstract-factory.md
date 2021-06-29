@@ -155,3 +155,5 @@ public static class FactoryMaker {
 [https://refactoring.guru/design-patterns/abstract-factory](https://refactoring.guru/design-patterns/abstract-factory)
 
 [What are the differences between abstract factory and factory design patterns](https://stackoverflow.com/questions/5739611/what-are-the-differences-between-abstract-factory-and-factory-design-patterns)
+
+[Baeldung - Abstract Factory Pattern in Java](https://www.baeldung.com/java-abstract-factory-pattern)

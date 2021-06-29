@@ -140,3 +140,4 @@ Chain of responsibility. И Decorator и Chain of responsibility по сути �
 
 [StackOverflow: Design Patterns Chain of Resposibility Vs Decorator](https://stackoverflow.com/questions/3721256/design-patterns-chain-of-resposibility-vs-decorator)
 
+[Baeldung - Chain of Responsibility Design Pattern in Java](https://www.baeldung.com/chain-of-responsibility-pattern)

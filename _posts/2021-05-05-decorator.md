@@ -180,3 +180,5 @@ Decorator. И Decorator и Chain of responsibility по сути набор по
 [Differences between Proxy and Decorator Pattern](https://stackoverflow.com/questions/18618779/differences-between-proxy-and-decorator-pattern/60478875)
 
 [Structural Patterns (comparison) – Design Patterns (ep 12)](https://www.youtube.com/watch?v=lPsSL6_7NBg&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=12)
+
+[Baeldung - The Decorator Pattern in Java](https://www.baeldung.com/java-decorator-pattern)

@@ -265,3 +265,5 @@ public enum Singleton {
 [Wikipedia: Initialization-on-demand holder idiom](https://en.wikipedia.org/wiki/Initialization-on-demand_holder_idiom)
 
 [https://refactoring.guru/design-patterns/singleton](https://refactoring.guru/design-patterns/singleton)
+
+[Baeldung - Singletons in Java](https://www.baeldung.com/java-singleton)

@@ -132,3 +132,5 @@ something-`Hook`. По умолчанию используется опреде�
 [StackOverflow: Is Factory method pattern a specialized case of Template method pattern](https://stackoverflow.com/questions/55461586/is-factory-method-pattern-a-specialized-case-of-template-method-pattern)
 
 [https://refactoring.guru/design-patterns/template-method](https://refactoring.guru/design-patterns/template-method)
+
+[Baeldung - Implementing the Template Method Pattern in Java](https://www.baeldung.com/java-template-method-pattern)
