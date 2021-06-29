@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f41532b-3638-42ce-8670-5fbc3e939b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-06-20-mediator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/mediator/mediator-class-diagram-example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/mediator/mediator-class-diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/mediator/mediator-dialog-sample-introduced.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/mediator/mediator-dialog-sample.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-05-24-chain-of-responsibility.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-05-24-chain-of-responsibility.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-06-06-command.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-06-06-command.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-06-28-observer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/observer/observer-class-diagram-example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/observer/observer-class-diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/observer/observer-illustration.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,38 +37,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/mediator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/observer" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/mediator" />
+      <recent name="$PROJECT_DIR$/assets/images/observer" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/images/mediator" />
       <recent name="$PROJECT_DIR$/assets/images/command" />
       <recent name="$PROJECT_DIR$/assets/images/chain-of-responsibility" />
-      <recent name="$PROJECT_DIR$/assets/images/decorator" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/observer" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/chain-of-responsibility" />
       <recent name="$PROJECT_DIR$/assets/images/iterator" />
       <recent name="$PROJECT_DIR$/assets/images/2021/03/bridge" />
-      <recent name="$PROJECT_DIR$/assets/images/2021/01/02/factory-method-gof" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -117,6 +100,8 @@
       <workItem from="1623089083709" duration="3061000" />
       <workItem from="1623181305192" duration="3072000" />
       <workItem from="1623350268025" duration="323000" />
+      <workItem from="1624260483204" duration="17000" />
+      <workItem from="1624779133335" duration="19792000" />
     </task>
     <servers />
   </component>

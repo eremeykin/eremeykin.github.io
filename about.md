@@ -40,7 +40,7 @@ key: page-about
 ### Stage 2
 - [x] [Command](/2021/06/06/command.html)
 - [x] [Mediator](/2021/06/20/mediator.html)
-- [ ] Observer
+- [x] [Observer](/2021/06/28/observer.html)
 - [ ] Visitor
 - [x] [Template method](/2021/01/26/template-method.html)
 ### Stage 3
