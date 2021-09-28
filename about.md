@@ -36,7 +36,7 @@ key: page-about
 - [ ] Strategy
 - [x] [Abstract Factory](/2021/02/23/abstract-factory.html)
 - [x] [Factory method - Mark Grand](/2021/02/28/factory-method-mark-grand.html), [Factory method - GoF](/2021/03/01/factory-method-gof.html)
-- [ ] State
+- [x] [State](/2021/07/26/state.html)
 ### Stage 2
 - [x] [Command](/2021/06/06/command.html)
 - [x] [Mediator](/2021/06/20/mediator.html)
