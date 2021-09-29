@@ -33,7 +33,7 @@ key: page-about
 - [x] [Decorator](/2021/05/05/decorator.html)
 - [x] [Proxy](/2021/04/26/proxy.html)
 - [x] [Adapter](/2021/01/24/adapter.html)
-- [ ] Strategy
+- [x] [Strategy](/2021/09/28/strategy.html)
 - [x] [Abstract Factory](/2021/02/23/abstract-factory.html)
 - [x] [Factory method - Mark Grand](/2021/02/28/factory-method-mark-grand.html), [Factory method - GoF](/2021/03/01/factory-method-gof.html)
 - [x] [State](/2021/07/26/state.html)

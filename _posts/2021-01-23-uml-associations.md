@@ -78,13 +78,13 @@ tags: UML диаграмма модификатор стериотип
   <div class="cell cell--lg-1 cell--md-2 vertical center-flex">Класс, который <br> вызывает метод</div>
   <div class="cell cell--lg-3 cell--md-8 center-flex"><div class="icon1"></div> </div>
   <div class="cell cell--lg-1 cell--md-2 vertical center-flex">Класс, метод <br> которого вызывают</div>
-  <div class="cell cell--lg-7 cell--md-12"><b>Направленная ассоциация.</b> Ассоциация - самый слабый вид связи. Обычно ассоциация возникает, когда
+  <div class="cell cell--lg-7 cell--md-12"><b>Направленная ассоциация (has-a).</b> Ассоциация - самый слабый вид связи. Обычно ассоциация возникает, когда
   один класс вызывает метод другого или если при вызове метода в качестве аргумента передается объект другого класса.</div>
 
   <div class="cell cell--lg-1 cell--md-2 vertical center-flex">Подкласс</div>
   <div class="cell cell--lg-3 cell--md-8 center-flex"><div class="icon2"></div></div>
   <div class="cell cell--lg-1 cell--md-2 vertical center-flex">Супер класс</div>
-  <div class="cell cell--lg-7 cell--md-12"><b>Обобщение</b> является отношением между более общим элементом (родителем) и более частным
+  <div class="cell cell--lg-7 cell--md-12"><b>Обобщение (is-a)</b> является отношением между более общим элементом (родителем) и более частным
   или специальным элементом (дочерним). Применительно к диаграмме классов данное отношение описывает иерархическое строение классов и
   наследование их свойств и поведения.</div>
 
