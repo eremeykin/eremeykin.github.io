@@ -41,7 +41,7 @@ key: page-about
 - [x] [Command](/2021/06/06/command.html)
 - [x] [Mediator](/2021/06/20/mediator.html)
 - [x] [Observer](/2021/06/28/observer.html)
-- [ ] Visitor
+- [x] [Visitor](/2021/09/30/visitor.html)
 - [x] [Template method](/2021/01/26/template-method.html)
 ### Stage 3
 - [x] [Chain of responsibility](/2021/05/24/chain-of-responsibility.html)

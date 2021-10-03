@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f41532b-3638-42ce-8670-5fbc3e939b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-09-28-strategy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/strategy/strategy-class-diagram-example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/strategy/strategy-class-diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/strategy/strategy-class-explosion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-23-uml-associations.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-23-uml-associations.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-24-adapter.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-24-adapter.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-26-template-method.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-26-template-method.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-30-singleton.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-30-singleton.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-05-05-decorator.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-05-05-decorator.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-06-06-command.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-06-06-command.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-09-30-visitor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/visitor/composite-class-diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/visitor/visitor-class-diagram-example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/visitor/visitor-class-diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-04-28-iterator.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-04-28-iterator.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-28-strategy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-09-28-strategy.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,24 +39,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/visitor" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/visitor" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/images/state" />
       <recent name="$PROJECT_DIR$/assets/images/observer" />
       <recent name="$PROJECT_DIR$/assets/images/mediator" />
-      <recent name="$PROJECT_DIR$/assets/images/command" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/visitor" />
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/images/strategy" />
       <recent name="$PROJECT_DIR$/assets/images/state" />
       <recent name="$PROJECT_DIR$/assets/images/observer" />
-      <recent name="$PROJECT_DIR$/assets/images" />
-      <recent name="$PROJECT_DIR$/assets/images/chain-of-responsibility" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -114,7 +110,8 @@
       <workItem from="1628950451082" duration="4067000" />
       <workItem from="1629099703991" duration="6000" />
       <workItem from="1631473030804" duration="623000" />
-      <workItem from="1632844984297" duration="13606000" />
+      <workItem from="1632844984297" duration="14639000" />
+      <workItem from="1633023669944" duration="11250000" />
     </task>
     <servers />
   </component>
