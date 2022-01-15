@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f41532b-3638-42ce-8670-5fbc3e939b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-09-30-visitor.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/visitor/composite-class-diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/visitor/visitor-class-diagram-example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/visitor/visitor-class-diagram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-04-28-iterator.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-04-28-iterator.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-09-28-strategy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-09-28-strategy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/visitor/visitor-clean-code-shapes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-30-visitor.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-09-30-visitor.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +20,10 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="dev" />
+    <option name="namespace" value="bdmn-sandbox" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -111,7 +110,9 @@
       <workItem from="1629099703991" duration="6000" />
       <workItem from="1631473030804" duration="623000" />
       <workItem from="1632844984297" duration="14639000" />
-      <workItem from="1633023669944" duration="11250000" />
+      <workItem from="1633023669944" duration="12802000" />
+      <workItem from="1633335988718" duration="1303000" />
+      <workItem from="1642240471744" duration="4406000" />
     </task>
     <servers />
   </component>
